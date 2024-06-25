@@ -10,5 +10,7 @@ setup(
     url = 'https://github.com/jmoore987/sharp_aquos_rc',
     download_url = 'https://github.com/jmoore987/sharp_aquos_rc/tarball/0.4',
     keywords = ['sharp', 'aquos', 'remote', 'control', 'tv', 'smarttv', 'iot' ],
-    classifiers = []
+    classifiers = [
+        'License :: OSI Approved :: MIT License'
+    ]
 )
